@@ -1,7 +1,7 @@
 # BookInc
 A simple Laravel app for book reservations.
 ## Local setup
-Here is a short tutorial how to seup this project locally. It is expected you have SSH acces, installed Composer, Git and PHP7, and a web server like Apache or Nginx.
+Here is a short tutorial how to seup this project locally. It is expected you have SSH access, installed Composer with Laravel version 7 and PHP version 7, Git and a web server like Apache or Nginx.
 
 ### Git
 First you have to clone the repository with:
